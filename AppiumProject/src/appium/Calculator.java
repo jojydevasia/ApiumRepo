@@ -46,7 +46,7 @@ public class Calculator {
 			
 			Assert.assertTrue(results.getText().equals("8"),"Actual Value is:  "+results.getText() +" did not match with the Expected Value: 8");
 			
-	}
+	}  
 		
 		@AfterClass
 		public void tearDown(){
